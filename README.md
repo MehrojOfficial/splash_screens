@@ -1,8 +1,8 @@
 # Splash Screen Logos
 
-Device: Redmi Note 10S (rosemary/secret/maltose)
-Support: All ROMS (including MIUI and AOSP)
-Android: Android 11+
+- Device: Redmi Note 10S (rosemary/secret/maltose)
+- Support: All ROMS (including MIUI and AOSP)
+- Android: Android 11+
 
 ### How to flash:
 
