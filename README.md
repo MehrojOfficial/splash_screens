@@ -4,6 +4,9 @@
 - Support: All ROMS (including MIUI and AOSP)
 - Android: Android 11+
 
+### It supports Hybrid Flashing: 
+- Single zip file can be used both on Recovery and Fastboot
+
 ### How to flash:
 
 *1. With Custom Recovery (TWRP/Orangefox)*
@@ -14,6 +17,7 @@
   - Extract zip file
   - Click on .bat file according to your OS (Windows/Linux/MacOS)
 
-[DOWNLOAD](https://www.pling.com/p/1987351/)
+### Preview/Download: [LINK](https://www.pling.com/p/1987351/)
 
-You can see preview of Logos on PLING
+### Credits:
+- Xiaomi.eu (for implementation of hybrid flashing)
